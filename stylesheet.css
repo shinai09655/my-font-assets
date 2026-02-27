@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Cubic 11';
+    src: url('Cubic_11.woff2') format('woff2'),
+        url('Cubic_11.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('NagomiGokubosoGothic-ExtraLight.woff2') format('woff2'),
+        url('NagomiGokubosoGothic-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nagomi Gokuboso Gothic ExLight';
+    src: url('NagomiGokubosoGothic-ExtraLight.woff2') format('woff2'),
+        url('NagomiGokubosoGothic-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DFPXingKaiW5-B5';
+    src: url('DFXingKai-W5-WINP-BF.woff2') format('woff2'),
+        url('DFXingKai-W5-WINP-BF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DFXingKaiW5-B5';
+    src: url('DFXingKai-W5-WIN-BF.woff2') format('woff2'),
+        url('DFXingKai-W5-WIN-BF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HanyiSentyPine';
+    src: url('HanyiSentyPine.woff2') format('woff2'),
+        url('HanyiSentyPine.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JasonHandwriting2';
+    src: url('JasonHandwriting2.woff2') format('woff2'),
+        url('JasonHandwriting2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
